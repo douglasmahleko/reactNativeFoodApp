@@ -1,0 +1,54 @@
+import { images } from "./images";
+
+export const categoryData=[
+    {
+        id:1,
+        name:"Burger",
+        icon:images.burger2
+    },
+    {
+        id:2,
+        name:"Noodles",
+        icon:images.noodels1
+    },
+    {
+        id:3,
+        name:"Fries",
+        icon:images.fries1
+    },
+    {
+        id:4,
+        name:"Wings",
+        icon:images.wing1
+    },
+    {
+        id:5,
+        name:"Shawarma",
+        icon:images.sha3
+    },
+    {
+        id:6,
+        name:"Pizza",
+        icon:images.pizza1
+    },
+    {
+        id:7,
+        name:"ChickenIn",
+        icon:images.wing2
+    },
+    {
+        id:8,
+        name:"Mashwede",
+        icon:images.fries2
+    },
+    {
+        id:9,
+        name:"Nandos",
+        icon:images.fries2
+    },
+    {
+        id:10,
+        name:"BakersIn",
+        icon:images.burger3
+    },
+]
